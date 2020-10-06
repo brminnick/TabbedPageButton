@@ -2,7 +2,7 @@
 
 namespace TabbedPageButton
 {
-    public partial class App : Application
+    public class App : Application
     {
         public App()
         {

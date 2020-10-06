@@ -1,9 +1,4 @@
-﻿using Xamarin.Forms;
-using Xamarin.Forms.Markup;
-using static TabbedPageButton.MarkupExtensions;
-using static Xamarin.Forms.Markup.GridRowsColumns;
-
-namespace TabbedPageButton
+﻿namespace TabbedPageButton
 {
     class ButtonPage : BaseButtonPage
     {
